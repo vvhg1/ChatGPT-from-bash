@@ -36,4 +36,5 @@ This script was co-authored by ChatGPT - just for good measure...
 
 ### License
 
-No warranty, no liability, no license. Do as you please.
+MIT
+Do as you please.
